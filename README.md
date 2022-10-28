@@ -1,7 +1,7 @@
 # kubeconfigadd
 Compliments `kubectx` by easily adding new kubernetes config file as additional context to default `~/.kube/config`
 
-Example
+### Example
 ```console
 $ kubectx
 kubernetes-admin@kubernetes
